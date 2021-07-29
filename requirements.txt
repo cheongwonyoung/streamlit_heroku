@@ -6,4 +6,4 @@ numpy==1.19.2
 lxml==4.6.3
 requests==2.26.0
 pillow==8.2.0
-oepncv==4.0.1
+cv2==4.0.1
